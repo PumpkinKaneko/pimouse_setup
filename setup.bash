@@ -1,4 +1,5 @@
 #!/bin/bash -xve
+#Written by Kosuke Kaneko
 
 exec 2> /tmp/setup.log
 
